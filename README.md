@@ -20,3 +20,16 @@ A data analytics project to study the impact of dynamic pricing changes on reven
 ## Project Progress
 
 Day 1: Created the repository and documented the project overview.
+
+## Problem Statement
+
+Traditional A/B testing can be difficult in interconnected marketplaces because pricing changes may affect multiple markets.
+
+This project aims to estimate the impact of dynamic pricing changes on revenue using causal inference and synthetic control methods.
+
+## Expected Outcomes
+
+- Estimate the impact of pricing changes on revenue.
+- Compare actual revenue with estimated counterfactual revenue.
+- Analyze the reliability of the results.
+- Present findings through visualizations.
