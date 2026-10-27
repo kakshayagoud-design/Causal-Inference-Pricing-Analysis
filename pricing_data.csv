@@ -1,0 +1,9 @@
+Date,Product,Category,Price,Units_Sold,Price_Change,Treatment_Group,Control_Group,Revenue
+2026-09-01,Earphones,Audio,500,20,0,1,0,10000
+2026-09-01,USB Cable,Cables,200,30,0,0,1,6000
+2026-09-02,Earphones,Audio,550,18,1,1,0,9900
+2026-09-02,USB Cable,Cables,200,31,0,0,1,6200
+2026-09-03,Earphones,Audio,550,19,1,1,0,10450
+2026-09-03,USB Cable,Cables,200,32,0,0,1,6400
+2026-09-04,Earphones,Audio,550,17,1,1,0,9350
+2026-09-04,USB Cable,Cables,200,30,0,0,1,6000
