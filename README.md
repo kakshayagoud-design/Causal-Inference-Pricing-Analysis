@@ -31,5 +31,35 @@ This project aims to estimate the impact of dynamic pricing changes on revenue u
 
 - Estimate the impact of pricing changes on revenue.
 - Compare actual revenue with estimated counterfactual revenue.
+
+## Day 3: Dataset Planning
+
+### Objective
+To plan the dataset required to analyze the impact of dynamic pricing changes on sales and revenue.
+
+### Planned Dataset Columns
+- Date
+- Product
+- Category
+- Price
+- Units_Sold
+- Revenue
+- Price_Change
+- Treatment_Group
+- Control_Group
+
+### Treatment and Control Groups
+The treatment group contains products whose prices are changed. The control group contains comparable products whose prices remain unchanged during the study period.
+
+### Planned Analysis
+1. Analyze sales and revenue before and after pricing changes.
+2. Compare treatment and control groups.
+3. Investigate the relationship between price changes and revenue.
+4. Prepare the data for causal impact estimation.
+
+### Project Progress
+- Day 1: Created the repository and documented the project overview.
+- Day 2: Added the problem statement and expected outcomes.
+- Day 3: Planned the dataset structure and identified treatment and control groups.
 - Analyze the reliability of the results.
 - Present findings through visualizations.
