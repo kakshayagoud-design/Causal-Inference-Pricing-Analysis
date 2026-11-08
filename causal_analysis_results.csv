@@ -1,0 +1,7 @@
+Metric,Value
+Difference-in-Differences Effect,-1.90133333333333
+Mean Absolute Error (MAE),0.6162707758386137
+Pre-Intervention RMSE,0.7333350646501199
+Pre-Intervention Gap,0.048616399204685135
+Post-Intervention Gap,-0.016027930007855056
+Synthetic Control Treatment Effect,-0.0646443292125402
